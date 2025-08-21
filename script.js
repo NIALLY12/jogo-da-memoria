@@ -1,10 +1,10 @@
 const cardArray = [
-{ name: 'gato', img: 'imagens/gato.png' },
-{ name: 'gato', img: 'imagens/gato.png' },
-{ name: 'cachorro', img: 'imagens/cachorro.png' },
-{ name: 'cachorro', img: 'imagens/cachorro.png' },
-{ name: 'coelho', img: 'imagens/coelho.png' },
-{ name: 'coelho', img: 'imagens/coelho.png' },
+{ name: 'gato', img: 'imagens/gato.jpeg' },
+{ name: 'gato', img: 'imagens/gato.jpeg' },
+{ name: 'cachorro', img: 'imagens/cachorro.jpeg' },
+{ name: 'cachorro', img: 'imagens/cachorro.jpeg' },
+{ name: 'coelho', img: 'imagens/coelho.jpg' },
+{ name: 'coelho', img: 'imagens/coelho.jpg' },
 { name: 'passarinho', img: 'imagens/pássaro.png' },
 { name: 'passarinho', img: 'imagens/pássaro.png' }
 ];
